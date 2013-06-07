@@ -1,0 +1,11 @@
+{
+  "name": "testpf",
+  "version": "0.0.1",
+  "description": "testing platform for web application.",
+  "keywords": [
+    "gruntplugin"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
